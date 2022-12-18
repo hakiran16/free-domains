@@ -2,7 +2,7 @@
   "$schema": "../schemas/domain.schema.json",
   "description": "testvmess-xui",
   "domain": "is-an.app",
-  "subdomain": "salamdonya",
+  "subdomain": "salamdonyaa",
   "owner": {
     "repo": "https://github.com/hakiran16/free-domains",
     "email": "hakiran16+1@gmail.com"
